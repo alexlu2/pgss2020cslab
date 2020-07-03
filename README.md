@@ -1,2 +1,7 @@
-# pgss2020cslab
-Repo for PGSS2020 CS Lab
+# PGSS2020 CS Lab Repository
+
+This repository contains my scripts and notes from the PGSS 2020 CS LAB
+
+** R and Python Scripts are included
+- R scripts:
+- Python Scripts:
