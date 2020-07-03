@@ -5,3 +5,4 @@ This repository contains my scripts and notes from the PGSS 2020 CS LAB
 ** R and Python Scripts are included
 - R scripts:
 - Python Scripts:
+  */MyNotebooks/myFirstScript.ipynb
